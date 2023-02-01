@@ -1,5 +1,5 @@
-<h1>Hi, i'm Franco </h1>
-### 👋
+<h1>Hi, I'm Franco 👋 </h1>
+
 
 <!--
 **francogarnica/francogarnica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
